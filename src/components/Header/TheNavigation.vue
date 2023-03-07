@@ -24,7 +24,7 @@ export default {
         <img
           v-show="to === currentRouteName"
           class="nav-active"
-          src="assets/images/active-line.png"
+          src="@/assets/images/active-line.png"
           alt="active-nav-line"
         />
       </transition>

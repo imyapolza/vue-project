@@ -18,7 +18,7 @@ export default {
       {{ page }}
     </button>
     <button class="page">
-      <img class="next-arrow" src="assets/images/arrow.svg" alt="next arrow" />
+      <img class="next-arrow" src="@/assets/images/arrow.svg" alt="next arrow" />
     </button>
   </div>
 </template>
