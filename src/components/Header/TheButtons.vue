@@ -6,14 +6,14 @@ export default {};
   <div class="header-buttons">
     <div class="search-cart-buttons">
       <button>
-        <img src="assets/images/header/search.svg" alt="search" />
+        <img src="@/assets/images/header/search.svg" alt="search" />
       </button>
       <button>
-        <img src="assets/images/header/cart.svg" alt="cart" />
+        <img src="@/assets/images/header/cart.svg" alt="cart" />
       </button>
     </div>
     <button class="button-logout">
-      <img src="assets/images/header/logout.svg" alt="logout" />
+      <img src="@/assets/images/header/logout.svg" alt="logout" />
       <span class="login-text">Login</span>
     </button>
   </div>
