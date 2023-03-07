@@ -13,7 +13,7 @@ export default {
 <template>
   <header class="header">
     <RouterLink to="/">
-      <img src="@/assets/images/header/logo.svg" alt="logo" />
+      <img src="assets/images/header/logo.svg" alt="logo" />
     </RouterLink>
 
     <TheNavigation />

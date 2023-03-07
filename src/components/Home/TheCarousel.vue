@@ -30,7 +30,7 @@ export default {
           <button class="shop-button">SHOP NOW</button>
         </div>
 
-        <img src="@/assets/images/main/plant.svg" alt="plant" />
+        <img src="assets/images/main/plant.svg" alt="plant" />
       </section>
     </slide>
 

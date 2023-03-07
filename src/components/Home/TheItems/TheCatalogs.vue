@@ -21,7 +21,7 @@ export default {
         <img
           v-show="index === 0"
           class="catalog-active"
-          src="@/assets/images/active-line.png"
+          src="assets/images/active-line.png"
           alt="active-nav-line"
         />
       </transition>
