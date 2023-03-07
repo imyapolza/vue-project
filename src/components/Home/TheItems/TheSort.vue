@@ -5,7 +5,7 @@ export default {}
 <template>
   <button class="sort">
     <span class="sort-param">Short by: Default Sorting</span>
-    <img src="assets/images/arrow.svg" alt="arrow svg" />
+    <img src="@/assets/images/arrow.svg" alt="arrow svg" />
   </button>
 </template>
 

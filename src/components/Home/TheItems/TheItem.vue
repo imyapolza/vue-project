@@ -4,7 +4,7 @@ export default {}
 
 <template>
   <div class="wrapper">
-    <img src="assets/images/main/items/1.png" alt="item image" />
+    <img src="@/assets/images/main/items/1.png" alt="item image" />
     <h4 class="title">Barberton Daisy</h4>
     <span class="price">$119.00</span>
   </div>
